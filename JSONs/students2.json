@@ -1,0 +1,414 @@
+[
+	{
+		"id": 1,
+		"Image": "https://lumiere-a.akamaihd.net/v1/images/character_themuppets_kermit_b77a431b.jpeg",
+		"Name": "Jeffrey Wilson",
+		"Class": [
+			"English",
+			"History"
+		],
+		"Grades": [
+			[
+				92,
+				83,
+				100
+			],
+			[
+				"English",
+				"History",
+				"History"
+			],
+			[
+				"Verbs",
+				"Enlightenment",
+				"American Revolution"
+			]
+		],
+		"Rating": 92,
+		"Letter": "A",
+		"Keywords": []
+
+	},
+	{
+		"id": 2,
+		"Image": "https://lumiere-a.akamaihd.net/v1/images/character_themuppets_kermit_b77a431b.jpeg",
+		"Name": "Angelina McCaffrey",
+		"Class": [
+			"Math",
+			"History"
+		],
+		"Grades": [
+			[
+				64,
+				25,
+				89,
+				73,
+				98,
+				46
+			],
+			[ "Math", "Math", "Math", "Math", "History", "History" ],
+			[
+				"Addition",
+				"Addition",
+				"Multiplication",
+				"Multiplication",
+				"Enlightenment",
+				"American Revolution"
+			]
+		],
+		"Rating": 66,
+		"Letter": "D",
+		"Keywords": ["Addition","American Revolution"]
+	},
+	{
+		"id": 3,
+		"Image": "https://lumiere-a.akamaihd.net/v1/images/character_themuppets_kermit_b77a431b.jpeg",
+		"Name": "Andrew Simonson",
+		"Class": [
+			"Math",
+			"Science"
+		],
+		"Grades": [
+			[
+				100,
+				97,
+				85,
+				100,
+				100
+			],
+			[ "Math", "Math", "Math", "Math", "Science", "Science" ],
+			[
+				"Addition",
+				"Addition",
+				"Multiplication",
+				"Multiplication",
+				"Geology"
+			]
+		],
+		"Rating": 96,
+		"Letter": "A",
+		"Keywords": []
+	},
+	{
+		"id": 4,
+		"Image": "https://lumiere-a.akamaihd.net/v1/images/character_themuppets_kermit_b77a431b.jpeg",
+		"Name": "Eliza Berth",
+		"Class": [
+			"Science",
+			"English"
+		],
+		"Grades": [
+			[
+				81,
+				45
+			],
+			[ "Science", "English" ],
+			[ "Geology", "Verbs" ]
+		],
+		"Rating": 63,
+		"Letter": "D",
+		"Keywords": ["Verbs"]
+	},
+	{
+		"id": 5,
+		"Image": "https://lumiere-a.akamaihd.net/v1/images/character_themuppets_kermit_b77a431b.jpeg",
+		"Name": "Alexa Vanegas",
+		"Class": [
+			"Science",
+			"History"
+		],
+		"Grades": [
+			[
+				63,
+				62,
+				85
+			],
+			[ "Science", "History", "History" ],
+			[
+				"Geology",
+				"Enlightenment",
+				"American Revolution"
+			]
+		],
+		"Rating": 70,
+		"Letter": "C",
+		"Keywords": ["Geology","Enlightenment"]
+	},
+
+	{
+		"id": 6,
+		"Image": "https://lumiere-a.akamaihd.net/v1/images/character_themuppets_kermit_b77a431b.jpeg",
+		"Name": "Harriet Burman",
+		"Class": [
+			"Math",
+			"History"
+		],
+		"Grades": [
+			[
+				100,
+				94,
+				56,
+				68,
+				99,
+				84
+
+			],
+			[ "Math", "Math", "Math", "Math", "History", "History" ],
+			[
+				"Addition",
+				"Addition",
+				"Multiplication",
+				"Multiplication",
+				"Enlightenment",
+				"American Revolution"
+			]
+		],
+		"Rating": 84,
+		"Letter": "B",
+		"Keywords": ["Multiplication"]
+	},
+
+	{
+		"id": 7,
+		"Image": "https://lumiere-a.akamaihd.net/v1/images/character_themuppets_kermit_b77a431b.jpeg",
+		"Name": "Amelia Davis",
+		"Class": [
+			"Science",
+			"English"
+		],
+		"Grades": [
+			[
+				93,
+				68
+			],
+			[ "Science", "English" ],
+			[
+				"Geology",
+				"Verbs"
+			]
+		],
+		"Rating": 81,
+		"Letter": "B",
+		"Keywords": ["Verbs"]
+	},
+
+	{
+		"id": 8,
+		"Image": "https://lumiere-a.akamaihd.net/v1/images/character_themuppets_kermit_b77a431b.jpeg",
+		"Name": "Phil Andrews",
+		"Class": [
+			"Math",
+			"English"
+		],
+		"Grades": [
+			[
+				49,
+				82,
+				93,
+				84,
+				91
+			],
+			[ "Math", "Math", "Math", "Math", "English" ],
+			[
+				"Addition",
+				"Addition",
+				"Multiplication",
+				"Multiplication",
+				"Verbs"
+			]
+		],
+		"Rating": 80,
+		"Letter": "B",
+		"Keywords": ["Addition"]
+	},
+
+	{
+		"id": 9,
+		"Image": "https://lumiere-a.akamaihd.net/v1/images/character_themuppets_kermit_b77a431b.jpeg",
+		"Name": "Gustavo Dixon",
+		"Class": [
+			"English",
+			"History"
+		],
+		"Grades": [
+			[
+				92,
+				33,
+				93
+			],
+			[ "Science", "History", "History" ],
+			[
+				"Geology",
+				"Enlightenment",
+				"American Revolution"
+			]
+		],
+		"Rating": 73,
+		"Letter": "C",
+		"Keywords": ["Enlightenment"]
+	},
+
+	{
+		"id": 10,
+		"Image": "https://lumiere-a.akamaihd.net/v1/images/character_themuppets_kermit_b77a431b.jpeg",
+		"Name": "Dave Robbins",
+		"Class": [
+			"Science",
+			"History"
+		],
+		"Grades": [
+			[
+				63,
+				62,
+				85
+			],
+			[ "Science", "History", "History" ],
+			[
+				"Geology",
+				"Enlightenment",
+				"American Revolution"
+			]
+		],
+		"Rating": 70,
+		"Letter": "C",
+		"Keywords": ["Geology","Enlightenment"]
+	},
+
+	{
+		"id": 11,
+		"Image": "https://lumiere-a.akamaihd.net/v1/images/character_themuppets_kermit_b77a431b.jpeg",
+		"Name": "Karen Murphy",
+		"Class": [
+			"Math",
+			"History"
+		],
+		"Grades": [
+			[
+				100,
+				100,
+				97,
+				99,
+				93,
+				96
+			],
+			[ "Math", "Math", "Math", "Math", "History", "History" ],
+			[
+				"Addition",
+				"Addition",
+				"Multiplication",
+				"Multiplication",
+				"Enlightenment",
+				"American Revolution"
+			]
+		],
+		"Rating": 98,
+		"Letter": "A",
+		"Keywords": []
+	},
+
+	{
+		"id": 12,
+		"Image": "https://lumiere-a.akamaihd.net/v1/images/character_themuppets_kermit_b77a431b.jpeg",
+		"Name": "Darren Klein",
+		"Class": [
+			"Science",
+			"English"
+		],
+		"Grades": [
+			[
+				92,
+				58
+			],
+			[ "Science", "English" ],
+			[
+				"Geology",
+				"Verbs"
+			]
+		],
+		"Rating": 75,
+		"Letter": "C",
+		"Keywords": ["Verbs"]
+	},
+
+	{
+		"id": 13,
+		"Image": "https://lumiere-a.akamaihd.net/v1/images/character_themuppets_kermit_b77a431b.jpeg",
+		"Name": "Erin Prince",
+		"Class": [
+			"Science",
+			"History"
+		],
+		"Grades": [
+			[
+				93,
+				44,
+				100
+			],
+			[ "Science", "History", "History" ],
+			[
+				"Geology",
+				"Enlightenment",
+				"American Revolution"
+			]
+		],
+		"Rating": 79,
+		"Letter": "C",
+		"Keywords": ["Enlightenment"]
+	},
+
+	{
+		"id": 14,
+		"Image": "https://lumiere-a.akamaihd.net/v1/images/character_themuppets_kermit_b77a431b.jpeg",
+		"Name": "Regina Jackson",
+		"Class": [
+			"Math",
+			"English"
+		],
+		"Grades": [
+			[
+				73,
+				83,
+				59,
+				87,
+				86
+			],
+			[ "Math", "Math", "Math", "Math", "English" ],
+			[
+				"Addition",
+				"Addition",
+				"Multiplication",
+				"Multiplication",
+				"Verbs"
+			]
+		],
+		"Rating": 78,
+		"Letter": "C",
+		"Keywords": ["Math"]
+	},
+
+	{
+		"id": 15,
+		"Image": "https://lumiere-a.akamaihd.net/v1/images/character_themuppets_kermit_b77a431b.jpeg",
+		"Name": "Elle Stevens",
+		"Class": [
+			"Science",
+			"English"
+		],
+		"Grades": [
+			[
+				63,
+				82
+			],
+			[ "Science", "English" ],
+			[
+				"Geology",
+				"Verbs"
+			]
+		],
+		"Rating": 73,
+		"Letter": "C",
+		"Keywords": ["Geology"]
+	}
+
+
+]
